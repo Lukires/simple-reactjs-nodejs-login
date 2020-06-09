@@ -1,0 +1,40 @@
+#loginBox {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 40%;
+    max-width: 600px;
+    min-width: 300px;
+    -webkit-box-shadow: 7px 10px 23px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 10px 23px -6px rgba(0,0,0,0.75);
+    box-shadow: 7px 10px 23px -6px rgba(0,0,0,0.75);
+}
+
+
+#loginForm {
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+#loginTitle {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: pink;
+}
+
+#createAnchor {
+    color: rgb(216, 215, 215);
+}
+
+#createAnchor:hover {
+    color: rgb(90, 90, 231);
+    cursor: pointer;
+}
