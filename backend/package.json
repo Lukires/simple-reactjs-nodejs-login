@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "mongodb": "^3.5.8",
+    "node-cache": "^5.1.0",
+    "uuid": "^8.1.0",
+    "uuidv4": "^6.1.0"
+  }
+}
